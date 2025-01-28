@@ -5,14 +5,21 @@
 
 
 
-I'm Mohammad, a Front-end deveolper and software Engineer from Iran. I am a passoniate self-taught developer. I am always eager to learn new technologies, new techniques and improve my skills. I try my level best to keep up with the advances. I love collaborating on innovative projects and contributing to open-source. Let’s connect and build something amazing!
-You can contact me MhmdZangoei1@gmail.com👨‍💻
-
-
+- 👋 I’m @MohammadZangoui
+- 👀 I’m love collaborating on innovative projects and contributing to open-source
+- 🌱 I’m currently learning Next Js
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : MhmdZangoei1@gmail.com
 
 <h3 align="center">My Activity</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadZangoui&show_icons=true&theme=tokyonight)
+<div align="center">
+<a href="https://github.com/MohammadZangoui">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadZangoui&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadZangoui" />
+</a>
+    
+</div>
 
 
 <h3 align="center">Tech Stack</h3>
@@ -26,3 +33,10 @@ You can contact me MhmdZangoei1@gmail.com👨‍💻
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="60" height="60" />
 </div>
+
+<h3 align="center">Support Me</h3>
+
+<div align="center" href="">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+</div>
+
