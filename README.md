@@ -3,9 +3,17 @@
 </h1>
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
+
+
+I'm Mohammad, a Front-end deveolper and software Engineer from Iran. I am a passoniate self-taught developer. I am always eager to learn new technologies, new techniques and improve my skills. I try my level best to keep up with the advances. I love collaborating on innovative projects and contributing to open-source. Let’s connect and build something amazing!
+You can contact me MhmdZangoei1@gmail.com👨‍💻
+
+
+
 <h3 align="center">My Activity</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadZangoui&show_icons=true&theme=tokyonight)
+
 
 <h3 align="center">Tech Stack</h3>
 
